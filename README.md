@@ -48,7 +48,7 @@ https://developer.microsoft.com/en-us/graph/blogs/the-microsoft-graph-toolkit-is
 
 ## Deploying ASP.NET Core Applications with Azure DevOps
 
-Andi Pollack, [@SpectoLogic](https://twitter.com/SpectoLogic)
+Andi Pollak, [@SpectoLogic](https://twitter.com/SpectoLogic)
 
 - Start your free trial at
 https://azure.microsoft.com/en-us/services/devops/
