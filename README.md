@@ -1,7 +1,7 @@
 # M365DevBootcamp-Vienna
 
 We hope the Microsoft 365 Developer Bootcamp Vienna was valuable.
-Find the resources from them Microsoft 365 Developer Bootcamp event day in Vienna, Nov. 27th, 2019 summarized here. To be continued in the next days...
+Find the resources from them Microsoft 365 Developer Bootcamp event day in Vienna, Nov. 27th, 2019 summarized here. This list will be continued in the next days...
 
 ## Event Agenda
 
@@ -19,6 +19,7 @@ Find the resources from them Microsoft 365 Developer Bootcamp event day in Vienn
 
 Martina Grom, [@magrom](https://twitter.com/magrom)
 - Microsoft 365 development overview - slides will follow on speakerdeck...
+- Follow [#office365dev](https://twitter.com/search?q=%23office365dev&src=typed_query)
 
 
 ## Microsoft Graph
@@ -40,10 +41,7 @@ https://graphpowershellrepository.azurewebsites.net/nuget
 - SPFx + Graph email demo 
 https://github.com/SharePoint/sp-dev-fx-webparts/tree/master/samples/react-graph-personalemail
 - Connectors
-Sign-up for the preview @ aka.ms/iWantConnectors
-
-To join the preview program, submit the Microsoft Graph connectors preview sign-up form
-https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxWYgu82J_RFnMMATAS6_chUNVYwNU1CMDNZUDBSSDZKWVo2RDJDRjRLQi4u
+Sign-up for the preview @ https://aka.ms/iWantConnectors. To join the preview program, submit the Microsoft Graph connectors preview sign-up form https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxWYgu82J_RFnMMATAS6_chUNVYwNU1CMDNZUDBSSDZKWVo2RDJDRjRLQi4u
 - The Microsoft Graph Toolkit is now generally available
 https://developer.microsoft.com/en-us/graph/blogs/the-microsoft-graph-toolkit-is-now-generally-available/
 
@@ -86,5 +84,5 @@ Thomy Gölles, [@thomyg](https://twitter.com/thomyg)
 - Install the Teams "App Studio" app.
 - more to come...
 
-Thanks for your interest. Follow the speakers in their GitHub repository and on Twitter for the latest news. 
+Thanks for your interest. Follow the speakers and their GitHub repositories and on Twitter for the latest news. 
 Happy developing!
