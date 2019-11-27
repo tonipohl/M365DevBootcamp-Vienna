@@ -82,7 +82,16 @@ https://aka.ms/pnpgenerator
 Thomy Gölles, [@thomyg](https://twitter.com/thomyg)
 
 - Install the Teams "App Studio" app.
+- Get the essential daily Dilbert from a flow from https://dilbert.com/search_results?terms=feed
+- Use a SPFx app in SharePoint: You can resurface your Teams app in SharePoint by adapting the manifest.json
+- Trigger a simple events with [Flic button](https://flic.io/) with random "Chuck Norris says"... ;)
+- Check out @cloudguy_pro tweets for Bot and AI projects
+- Bot tips: Do not underestimate what people ask a bot (4 predefined types how to answer default questions), don´t forgetto add buttons and toggles a user can tap
+- Try it out: Q&A Maker https://www.qnamaker.ai/ and Bot Composer https://www.youtube.com/watch?v=ZNcfIgO8biw and the Bot Framework https://dev.botframework.com/
 - more to come...
 
-Thanks for your interest. Follow the speakers and their GitHub repositories and on Twitter for the latest news. 
+Thanks for your interest. 
+Your team of M365DevBootcamp VIE.
+
+Follow the speakers and their GitHub repositories and on Twitter for the latest news. 
 Happy developing!
