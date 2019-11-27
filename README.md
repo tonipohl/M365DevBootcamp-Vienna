@@ -2,16 +2,16 @@
 Resources from them Microsoft 365 Developer Bootcamp event day in Vienna, Nov. 27th, 2019.
 
 
-## Agenda
+## Event Agenda
 
-09:30 Welcome and Overview - Martina Grom, Toni Pohl
-10:00 Microsoft Graph, Toni Pohl
-10:30 Deploying ASP.NET Core Applications with Azure DevOps, Andi Pollak
-11:00 Develop your custom Flow and PowerApps Connectors, Patrick Lamber
-12:00 Lunch
-13:00 Using the SharePoint Framework (SPFx), Stefan Bauer
-14:00 Developing apps for Microsoft Teams, Thomy Gölles
-15:00 Intelligence in Microsoft Teams Bots, Thomy Gölles
+- 09:30 Welcome and Overview - Martina Grom, Toni Pohl
+- 10:00 Microsoft Graph, Toni Pohl
+- 10:30 Deploying ASP.NET Core Applications with Azure DevOps, Andi Pollak
+- 11:00 Develop your custom Flow and PowerApps Connectors, Patrick Lamber
+- 12:00 Lunch
+- 13:00 Using the SharePoint Framework (SPFx), Stefan Bauer
+- 14:00 Developing apps for Microsoft Teams, Thomy Gölles
+- 15:00 Intelligence in Microsoft Teams Bots, Thomy Gölles
 
 
 ## Microsoft 365
