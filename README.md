@@ -62,7 +62,7 @@ Patrick Lamber, [@PatrickLamber](https://twitter.com/patricklamber)
 - Patricks GitHub https://github.com/plamber
 - https://github.com/weng5e
 - Licensing of the PowerPlatform https://powerapps.microsoft.com/en-us/pricing/
-- Blog http://nubo.eu
+- Check out Patrick´s blog at http://nubo.eu
 
 
 ## Using the SharePoint Framework (SPFx)
@@ -78,14 +78,7 @@ https://provisioning.sharepointpnp.com/
 https://aka.ms/pnpgenerator
 
 
-## Developing apps for Microsoft Teams
-
-Thomy Gölles, [@thomyg](https://twitter.com/thomyg)
-
-- Resources will follow asap...!
-
-
-## Intelligence in Microsoft Teams Bots
+## Developing apps and Bots for Microsoft Teams
 
 Thomy Gölles, [@thomyg](https://twitter.com/thomyg)
 
