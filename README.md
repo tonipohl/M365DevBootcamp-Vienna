@@ -31,7 +31,8 @@ https://azure.microsoft.com/en-us/services/devops/
 ## Custom Connectors
 
 - Patricks GitHub https://github.com/plamber
-- https:/7gthub.com/weng5e
+- https://github.com/weng5e
+- Licensing of the PowerPlatform https://powerapps.microsoft.com/en-us/pricing/
 
 ## More
 
