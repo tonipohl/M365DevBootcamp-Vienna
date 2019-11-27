@@ -42,6 +42,8 @@ https://github.com/SharePoint/sp-dev-fx-webparts/tree/master/samples/react-graph
 Sign-up for the preview @ aka.ms/iWantConnectors
 To join the preview program, submit the Microsoft Graph connectors preview sign-up form
 https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxWYgu82J_RFnMMATAS6_chUNVYwNU1CMDNZUDBSSDZKWVo2RDJDRjRLQi4u
+- The Microsoft Graph Toolkit is now generally available
+https://developer.microsoft.com/en-us/graph/blogs/the-microsoft-graph-toolkit-is-now-generally-available/
 
 
 ## Deploying ASP.NET Core Applications with Azure DevOps
@@ -65,7 +67,10 @@ Patrick Lamber, [@PatrickLamber](https://twitter.com/patricklamber)
 Stefan Bauer, [@StfBauer](https://twitter.com/StfBauer)
 - Install Node.jsand the developer tools
 https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment
-
+- Microsoft 365 learning pathways
+https://github.com/pnp/custom-learning-office-365
+- Deploy from the SharePoint Provisioning Service within minutes and without any coding 
+https://provisioning.sharepointpnp.com/
 
 
 ## Developing apps for Microsoft Teams
