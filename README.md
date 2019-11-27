@@ -40,6 +40,7 @@ https://graphpowershellrepository.azurewebsites.net/nuget
 https://github.com/SharePoint/sp-dev-fx-webparts/tree/master/samples/react-graph-personalemail
 - Connectors
 Sign-up for the preview @ aka.ms/iWantConnectors
+
 To join the preview program, submit the Microsoft Graph connectors preview sign-up form
 https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxWYgu82J_RFnMMATAS6_chUNVYwNU1CMDNZUDBSSDZKWVo2RDJDRjRLQi4u
 - The Microsoft Graph Toolkit is now generally available
@@ -57,9 +58,11 @@ https://azure.microsoft.com/en-us/services/devops/
 ## Develop your custom Flow and PowerApps Connectors
 
 Patrick Lamber, [@PatrickLamber](https://twitter.com/patricklamber)
+- Custom Connectors https://github.com/plamber/powerplattformcustomconnectors
 - Patricks GitHub https://github.com/plamber
 - https://github.com/weng5e
 - Licensing of the PowerPlatform https://powerapps.microsoft.com/en-us/pricing/
+- Blog http://nubo.eu
 
 
 ## Using the SharePoint Framework (SPFx)
@@ -71,6 +74,8 @@ https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-env
 https://github.com/pnp/custom-learning-office-365
 - Deploy from the SharePoint Provisioning Service within minutes and without any coding 
 https://provisioning.sharepointpnp.com/
+- Check out more at 
+https://aka.ms/pnpgenerator
 
 
 ## Developing apps for Microsoft Teams
