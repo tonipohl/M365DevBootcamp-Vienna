@@ -15,7 +15,7 @@ https://github.com/microsoftgraph/microsoftgraph-postman-collections
 https://gist.github.com/kalyankrishna1/0a6ea6d00a09f7ae81c89960e1038d79 
 - Graph Powershell (Beta)
 https://graphpowershellrepository.azurewebsites.net/nuget 
-- SPFx + Graph
+- SPFx + Graph email demo 
 https://github.com/SharePoint/sp-dev-fx-webparts/tree/master/samples/react-graph-personalemail
 - Connectors
 Sign-up for the preview @ aka.ms/iWantConnectors
@@ -28,6 +28,10 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxWYgu82
 - Start your free trial at
 https://azure.microsoft.com/en-us/services/devops/
 
+## Custom Connectors
+
+- Patricks GitHub https://github.com/plamber
+- https:/7gthub.com/weng5e
 
 ## More
 
