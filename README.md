@@ -2,6 +2,18 @@
 Resources from them Microsoft 365 Developer Bootcamp event day in Vienna, Nov. 27th, 2019.
 
 
+## Agenda
+
+09:30 Welcome and Overview - Martina Grom, Toni Pohl
+10:00 Microsoft Graph, Toni Pohl
+10:30 Deploying ASP.NET Core Applications with Azure DevOps, Andi Pollak
+11:00 Develop your custom Flow and PowerApps Connectors, Patrick Lamber
+12:00 Lunch
+13:00 Using the SharePoint Framework (SPFx), Stefan Bauer
+14:00 Developing apps for Microsoft Teams, Thomy Gölles
+15:00 Intelligence in Microsoft Teams Bots, Thomy Gölles
+
+
 ## Microsoft 365
 
 Martina Grom, [@magrom](https://twitter.com/magrom)
@@ -11,6 +23,7 @@ Martina Grom, [@magrom](https://twitter.com/magrom)
 ## Microsoft Graph
 
 Toni Pohl, [@atwork](https://twitter.com/atwork)
+
 For working with Microsoft Graph, pls. check out the following resources:
 
 - Office Dev Blogs
@@ -31,14 +44,15 @@ To join the preview program, submit the Microsoft Graph connectors preview sign
 https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxWYgu82J_RFnMMATAS6_chUNVYwNU1CMDNZUDBSSDZKWVo2RDJDRjRLQi4u
 
 
-## DevOps
+## Deploying ASP.NET Core Applications with Azure DevOps
 
 Andi Pollack, [@SpectoLogic](https://twitter.com/SpectoLogic)
+
 - Start your free trial at
 https://azure.microsoft.com/en-us/services/devops/
 
 
-## Custom Connectors
+## Develop your custom Flow and PowerApps Connectors
 
 Patrick Lamber, [@PatrickLamber](https://twitter.com/patricklamber)
 - Patricks GitHub https://github.com/plamber
@@ -46,7 +60,7 @@ Patrick Lamber, [@PatrickLamber](https://twitter.com/patricklamber)
 - Licensing of the PowerPlatform https://powerapps.microsoft.com/en-us/pricing/
 
 
-## SharePoint Development
+## Using the SharePoint Framework (SPFx)
 
 Stefan Bauer, [@StfBauer](https://twitter.com/StfBauer)
 - Install Node.jsand the developer tools
@@ -54,12 +68,19 @@ https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-env
 
 
 
-## More
+## Developing apps for Microsoft Teams
 
 Thomy Gölles, [@thomyg](https://twitter.com/thomyg)
 
+- Resources will follow asap...!
 
-will follow asap...!
+
+## Intelligence in Microsoft Teams Bots
+
+Thomy Gölles, [@thomyg](https://twitter.com/thomyg)
+
+- Resources will follow asap...!
+
 
 Thanks for your interest. We hope the Microsoft 365 Developer Bootcamp was valuable.
 Happy developing!
