@@ -1,9 +1,17 @@
 # M365DevBootcamp-Vienna
 Resources from them Microsoft 365 Developer Bootcamp event day in Vienna, Nov. 27th, 2019.
 
+
+## Microsoft 365
+
+Martina Grom, [@magrom](https://twitter.com/magrom)
+- Microsoft 365 development overview - slides will follow
+
+
 ## Microsoft Graph
 
-For working with Microsoft Graph, pls. chekc out the following resources:
+Toni Pohl, [@atwork](https://twitter.com/atwork)
+For working with Microsoft Graph, pls. check out the following resources:
 
 - Office Dev Blogs
 https://developer.microsoft.com/en-us/office/blogs/
@@ -25,18 +33,33 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxWYgu82
 
 ## DevOps
 
+Andi Pollack, [@SpectoLogic](https://twitter.com/SpectoLogic)
 - Start your free trial at
 https://azure.microsoft.com/en-us/services/devops/
 
+
 ## Custom Connectors
 
+Patrick Lamber, [@PatrickLamber](https://twitter.com/patricklamber)
 - Patricks GitHub https://github.com/plamber
 - https://github.com/weng5e
 - Licensing of the PowerPlatform https://powerapps.microsoft.com/en-us/pricing/
 
+
+## SharePoint Development
+
+Stefan Bauer, [@StfBauer](https://twitter.com/StfBauer)
+- Install Node.jsand the developer tools
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment
+
+
+
 ## More
 
-will come today...!
+Thomy Gölles, [@thomyg](https://twitter.com/thomyg)
+
+
+will follow asap...!
 
 Thanks for your interest. We hope the Microsoft 365 Developer Bootcamp was valuable.
 Happy developing!
