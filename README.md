@@ -1,6 +1,7 @@
 # M365DevBootcamp-Vienna
-Resources from them Microsoft 365 Developer Bootcamp event day in Vienna, Nov. 27th, 2019.
 
+We hope the Microsoft 365 Developer Bootcamp Vienna was valuable.
+Find the resources from them Microsoft 365 Developer Bootcamp event day in Vienna, Nov. 27th, 2019 summarized here. To be continued in the next days...
 
 ## Event Agenda
 
@@ -17,7 +18,7 @@ Resources from them Microsoft 365 Developer Bootcamp event day in Vienna, Nov. 2
 ## Microsoft 365
 
 Martina Grom, [@magrom](https://twitter.com/magrom)
-- Microsoft 365 development overview - slides will follow
+- Microsoft 365 development overview - slides will follow on speakerdeck...
 
 
 ## Microsoft Graph
@@ -82,8 +83,8 @@ https://aka.ms/pnpgenerator
 
 Thomy Gölles, [@thomyg](https://twitter.com/thomyg)
 
-- Resources will follow asap...!
+- Install the Teams "App Studio" app.
+- more to come...
 
-
-Thanks for your interest. We hope the Microsoft 365 Developer Bootcamp was valuable.
+Thanks for your interest. Follow the speakers in their GitHub repository and on Twitter for the latest news. 
 Happy developing!
