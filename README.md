@@ -50,8 +50,17 @@ https://developer.microsoft.com/en-us/graph/blogs/the-microsoft-graph-toolkit-is
 
 Andi Pollak, [@SpectoLogic](https://twitter.com/SpectoLogic)
 
-- Start your free trial at
-https://azure.microsoft.com/en-us/services/devops/
+Here you can find all the relevant links to get you started:
+- Start your free [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) (5 Users, 1800 Build Minutes, Sprint Planning,...)
+- Learn more with [Azure Devops Labs](https://azuredevopslabs.com/)
+
+- Here you can find the [Demo Code + YAML](https://github.com/SpectoLogic/Samples/tree/master/2019/DevOps-Pipelines/IncidentAPI) i created during my demo on the event in Vienna 
+
+- [Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net)
+- Possible [Microsoft Host-Agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops#use-a-microsoft-hosted-agent)
+- [YAML Pipeline Structure](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema#pipeline-structure)
+- [Azure Pipeline Tasks - Source Code on Git-Hub](https://github.com/microsoft/azure-pipelines-tasks/tree/master/Tasks)
+- [Learn YAML](https://learnxinyminutes.com/docs/yaml/)
 
 
 ## Develop your custom Flow and PowerApps Connectors
