@@ -76,6 +76,9 @@ Patrick Lamber, [@PatrickLamber](https://twitter.com/patricklamber)
 ## Using the SharePoint Framework (SPFx)
 
 Stefan Bauer, [@StfBauer](https://twitter.com/StfBauer)
+
+[Presentation](./presentations/M365 Developer Boot Camp - What is SPFx.pptx)
+
 - Install Node.jsand the developer tools
 https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment
 - Microsoft 365 learning pathways
