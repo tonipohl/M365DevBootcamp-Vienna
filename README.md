@@ -1,12 +1,12 @@
 # M365DevBootcamp-Vienna
 
 We hope the Microsoft 365 Developer Bootcamp Vienna was valuable.
-Find the resources from them Microsoft 365 Developer Bootcamp event day in Vienna, Nov. 27th, 2019 summarized here. This list will be continued in the next days...
+Find the resources from them Microsoft 365 Developer Bootcamp event day in Vienna, Nov. 27th, 2019 summarized here. 
 
 ## Event Agenda
 
-- 09:30 Welcome and Overview - Martina Grom, Toni Pohl
-- 10:00 Microsoft Graph, Toni Pohl
+- 09:30 Welcome and M365 Developer Overview, Martina Grom
+- 10:00 Microsoft Graph latest news, Toni Pohl
 - 10:30 Deploying ASP.NET Core Applications with Azure DevOps, Andi Pollak
 - 11:00 Develop your custom Flow and PowerApps Connectors, Patrick Lamber
 - 12:00 Lunch
@@ -18,7 +18,12 @@ Find the resources from them Microsoft 365 Developer Bootcamp event day in Vienn
 ## Microsoft 365
 
 Martina Grom, [@magrom](https://twitter.com/magrom)
-- Microsoft 365 development overview - slides will follow on speakerdeck...
+- Microsoft 365 - The world’s productivity cloud across work and life
+- Microsoft estimates 2.5 million citizen developers
+- Avoid distraction, stay in your client app
+- Microsoft Identity as foundation for security, apps and data
+- Microsoft Graph for Data ans Services
+- Engage with Microsoft 365
 - Follow [#office365dev](https://twitter.com/search?q=%23office365dev&src=typed_query)
 
 
